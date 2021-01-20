@@ -1,2 +1,2 @@
-# CSE110-Lab3
+# wi21-cse110-lab3
 https://ray-huang88.github.io/wi21-cse110-lab3/.
